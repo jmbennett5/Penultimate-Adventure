@@ -1,5 +1,5 @@
 /**
- * Menu Class, start game from here "Main Class"
+ * Room class, where rooms are created and able to be navigated.
  *
  * @Johnathan Bennett & Isaac Howard
  * @Version 1.0
