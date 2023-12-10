@@ -1,9 +1,10 @@
-        /**
-         * Write a description of class Monster here.
-         *
-         * @author (your name)
-         * @version (a version number or a date)
-         */
+  /**
+ * Monster class, fights start from here, unused code
+ *
+ * @Johnathan Bennett
+ * @Version 1.0
+ */
+/**
         import java.util.ArrayList;
         import java.util.List;
         import java.util.Random;
@@ -24,9 +25,9 @@
                 regularMonsters.add("Creepy Hobo");
                 regularMonsters.add("Enraged Druggie");
                 regularMonsters.add("Mutated Roach");
-            }
+            } */
         
-            public int level;
+          /**  public int level;
             public String monsterType;
             public int hp;
             public int dmg;
@@ -34,7 +35,7 @@
             public Monster(int level) {
                 this.level = level;
                 this.stuff();
-            }
+            } */
         
             public void stuff() {
                 if (level == 1) {
@@ -62,7 +63,7 @@
             }
         
             
-        public static String FightDruggie()
+        public static String FightDruggie() // used for calling the fight for the druggie
         {
             String prompt   = "You try to walk past the rambling incoherent man, and he grabs your arm and yells incomprehensible things into your face.\n"
                             + "You see two good options -- Try to WIGGLE out, or KICK him in the balls.\n";
