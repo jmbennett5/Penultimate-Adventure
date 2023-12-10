@@ -1,10 +1,10 @@
-
 /**
- * Write a description of class saveGame here.
+ * Savegame class uses serializable to store room object for retreival on load.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Johnathan Bennett
+ * @Version 1.0
  */
+
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 import java.io.FileInputStream;
