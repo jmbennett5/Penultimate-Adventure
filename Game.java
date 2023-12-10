@@ -1,3 +1,9 @@
+/**
+ * This is the main game loop, logic will direct here for decisions.
+ *
+ * @Johnathan Bennett
+ * @Version 1.0
+ */
 
 
 public class Game extends GM {
