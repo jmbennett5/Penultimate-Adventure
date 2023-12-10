@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class MainMenu here.
+ * Menu Class, start game from here "Main Class"
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Johnathan Bennett
+ * @Version 1.0
  */
 import java.util.Scanner;
 
