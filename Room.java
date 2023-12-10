@@ -1,3 +1,11 @@
+/**
+ * Menu Class, start game from here "Main Class"
+ *
+ * @Johnathan Bennett & Isaac Howard
+ * @Version 1.0
+ */
+
+
 import java.io.Serializable;
 public class Room extends GM implements Serializable
 {
