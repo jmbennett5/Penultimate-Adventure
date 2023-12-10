@@ -1,10 +1,10 @@
-
 /**
- * Write a description of class NPC here.
+ * NPC Class used to to talk to the NPC
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Johnathan Bennett
+ * @Version 1.0
  */
+
 import java.util.Scanner;
 
 public class NPC extends GM {
